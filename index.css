@@ -1,0 +1,187 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   padding: 0px;
+   margin: 0px;
+
+}
+/*--------------donate---------*/
+.donate{
+    background-image: url(img/donation13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: -40px;
+    
+    
+}
+.donate-need{
+ text-align: center;
+ color: wheat;
+ 
+}
+.donate-need h1{
+    padding-top: 10%;
+    font-size: 50px;
+}
+ .donate-need samp{
+    font-size: 50px;
+   
+ }
+.donate-need a{
+    text-decoration: none;
+    border: 1px solid wheat;
+    padding: 5px 10px;
+    color: wheat;
+    margin-top: 20px;
+}
+.p-donate{
+    font-size: 20px;
+}
+/*---------------Donate-today-----------*/
+.donate-today{
+    text-align: center;
+    margin: auto;
+    margin-top: 120px;
+}
+.today h1{
+    font-size: 40px;
+}
+.today p{
+    color: gray;
+}
+.taka p{
+    background-color: rgb(197, 188, 188);
+ border: 2px solid gray;
+padding: 30px;
+font-size: 30px;
+margin: 10px;
+}
+.taka{
+    display: flex;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.taka .p-1{
+    color: red;
+   border: 2px solid red;
+}
+
+.amount{
+    color: gray;
+    border-bottom: 1px gray solid;
+    margin: 40px 200px;
+    padding: 10px;
+}
+.donate-today a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 10px;
+   font-weight: bolder;
+
+}
+/*-----------Donate Plan------------*/
+.donate-plan{
+    margin-top: 50px;
+    text-align: center;
+}
+.donate-plan h1{
+    font-size: 40px;
+
+}
+.donate-plan p{
+    color: gray;
+}
+.work-family{
+    display: flex;
+   
+    margin: 20px 150px;
+}
+.food{
+    background-color: rgb(191, 234, 220);
+    margin: 10px;
+    padding: 15px;
+}
+.shelter{
+    margin: 10px;
+    padding: 15px;
+    background-color: gray;  
+}
+.education{
+    margin: 10px;
+    padding: 15px;
+    background-color: rgb(233, 175, 175);   
+}
+/*-----------depend---------*/
+.depend{
+    display: flex;
+}
+.dep-img img{
+    width: 400px;
+    height: 400px;
+    margin: 30px 100px;
+
+}
+.depend-effect{
+    padding: 40px;
+    margin-right: 70px;
+
+}
+.depend-effect h1{
+font-size: 40px;
+
+}
+.depend-effect p{
+color: gray;
+margin-bottom: 40px;
+}
+.depend-effect a{
+    text-decoration: none;
+    border: 2px solid black;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 10px;
+   font-weight: bolder;
+
+}
+/*-------------Our Volunteer Team---------*/
+.volunteer{
+    display: flex;
+    margin-left: 200px;
+}
+.volunteer .name{
+    margin: 10px;
+}
+.name h6{
+    font-size: 20px;
+    margin-top: -20px;
+}
+/*--------update------*/
+.update{
+    margin: 100px 450px;
+    background-color: rgb(232, 226, 192);
+    padding: 50px 40px;
+}
+.update input{
+border: 1px solid red;
+font-size: 20px;
+}
+.update button{
+    padding: 6px 20px;
+    background-color: red;
+    color: wheat;
+    border: 1px solid red;
+   
+}
+
+
+
+.last-part{
+    text-align: center;
+    background-color: black;
+    color: white;
+   padding: 40px 0px;
+}
